@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/styles/demo/demo5.scss.css"],"sourcesContent":["html:has(.main-content-5){--bg: #f4efe9;--primary: #367df4;background-color:var(--bg);background-image:url(../../public/noise.png);background-size:200px;animation:noise 1s infinite linear alternate}@keyframes noise{0%{background-position:0 0}100%{background-position:100% 100%}}@media(max-width: 767px){.no-transform-mobile>div{transform:none !important}}"],"names":[],"mappings":"AAAA;;;;;;;;;AAAsM;;;;;;;;;;AAAgF;EAAyB"}}]
-}

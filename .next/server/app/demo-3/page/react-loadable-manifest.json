@@ -1,9 +1,0 @@
-{
-  "[project]/node_modules/react-countdown/dist/index.es.js [app-client] (ecmascript, next/dynamic entry)": {
-    "id": "[project]/node_modules/react-countdown/dist/index.es.js [app-client] (ecmascript, next/dynamic entry)",
-    "files": [
-      "static/chunks/node_modules_react-countdown_dist_index_es_c394563f.js",
-      "static/chunks/node_modules_react-countdown_dist_index_es_e4995c91.js"
-    ]
-  }
-}
