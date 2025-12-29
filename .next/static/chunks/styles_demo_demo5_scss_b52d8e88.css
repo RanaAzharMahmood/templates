@@ -1,0 +1,27 @@
+/* [project]/styles/demo/demo5.scss.css [app-client] (css) */
+html:has(.main-content-5) {
+  --bg: #f4efe9;
+  --primary: #367df4;
+  background-color: var(--bg);
+  background-image: url("../media/noise.768268a2.png");
+  background-size: 200px;
+  animation: 1s linear infinite alternate noise;
+}
+
+@keyframes noise {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 100% 100%;
+  }
+}
+
+@media (width <= 767px) {
+  .no-transform-mobile > div {
+    transform: none !important;
+  }
+}
+
+/*# sourceMappingURL=styles_demo_demo5_scss_b52d8e88.css.map*/
