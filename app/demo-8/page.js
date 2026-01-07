@@ -175,9 +175,9 @@ const Demo8 = () => {
       <footer className="px-4 sm:px-6 py-8 mt-1">
         <div className="container mx-auto">
           <div className="flex md:flex-row flex-col justify-between items-center">
-            <div className="md:w-1/2 text-center md:text-start order-2 md:order-1">
+            {/* <div className="md:w-1/2 text-center md:text-start order-2 md:order-1">
               <span className="text-sm text-balance inline-block">&copy; {new Date().getFullYear()} by Slink — Developed by <Link className="relative after:absolute after:content-[''] after:w-full after:h-[1px] after:bg-black after:transition-all after:duration-300 hover:after:w-0 after:left-0 hover:after:left-auto hover:after:right-0 after:bottom-0" href="https://themeforest.net/user/platol/portfolio" aria-label="Slink">Platol</Link></span>
-            </div>
+            </div> */}
             <div className="md:w-1/2 mb-6 md:mb-0 order-1 md:order-2">
               <ul className="flex items-center justify-center md:justify-end flex-wrap gap-4 [&_li]:leading-[0] [&_a]:bg-black/4 [&_a]:rounded-lg">
                 <li>
